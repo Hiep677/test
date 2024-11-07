@@ -1,0 +1,14 @@
+D:\CNPMC#\GreenTaxi\GreenTaxi\bin\Debug\net8.0\GreenTaxi.exe
+D:\CNPMC#\GreenTaxi\GreenTaxi\bin\Debug\net8.0\GreenTaxi.deps.json
+D:\CNPMC#\GreenTaxi\GreenTaxi\bin\Debug\net8.0\GreenTaxi.runtimeconfig.json
+D:\CNPMC#\GreenTaxi\GreenTaxi\bin\Debug\net8.0\GreenTaxi.dll
+D:\CNPMC#\GreenTaxi\GreenTaxi\bin\Debug\net8.0\GreenTaxi.pdb
+D:\CNPMC#\GreenTaxi\GreenTaxi\obj\Debug\net8.0\GreenTaxi.GeneratedMSBuildEditorConfig.editorconfig
+D:\CNPMC#\GreenTaxi\GreenTaxi\obj\Debug\net8.0\GreenTaxi.AssemblyInfoInputs.cache
+D:\CNPMC#\GreenTaxi\GreenTaxi\obj\Debug\net8.0\GreenTaxi.AssemblyInfo.cs
+D:\CNPMC#\GreenTaxi\GreenTaxi\obj\Debug\net8.0\GreenTaxi.csproj.CoreCompileInputs.cache
+D:\CNPMC#\GreenTaxi\GreenTaxi\obj\Debug\net8.0\GreenTaxi.dll
+D:\CNPMC#\GreenTaxi\GreenTaxi\obj\Debug\net8.0\refint\GreenTaxi.dll
+D:\CNPMC#\GreenTaxi\GreenTaxi\obj\Debug\net8.0\GreenTaxi.pdb
+D:\CNPMC#\GreenTaxi\GreenTaxi\obj\Debug\net8.0\GreenTaxi.genruntimeconfig.cache
+D:\CNPMC#\GreenTaxi\GreenTaxi\obj\Debug\net8.0\ref\GreenTaxi.dll
